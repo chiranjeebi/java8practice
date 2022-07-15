@@ -8,5 +8,10 @@ public interface Calculator {
       return num1-num2;
   };
 
-
+ default Integer div(Integer num1,Integer num2){
+     return num1/num2;
+ }
+ default Integer mul(Integer num1,Integer num2){
+        return num1*num2;
+    }
 }
