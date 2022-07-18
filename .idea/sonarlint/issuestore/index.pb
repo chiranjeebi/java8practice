@@ -24,11 +24,3 @@ h
 8src/interfaceenhancement/staticmethod/MainInterface.java,5\5\554617ba91f79b4a2043d67f62e654db41b9c162
 p
 @src/interfaceenhancement/functionalinterface/InterfaceJava8.java,c\0\c0fc4e0912b1f249232784cd519e19e58b7ed051
-\
-,src/interfaceenhancement/lambda/Vehicle.java,3\7\374a77b1a11313322f1ca121de7fa787d06e8629
-`
-0src/interfaceenhancement/lambda/VehicleImpl.java,2\b\2ba0ab2097a2b75fa76e16c9d198fd5b768fa0f1
-`
-0src/interfaceenhancement/lambda/VehicleMain.java,8\1\814d3976f37f79303b0915a0f4f39a4816e63702
-X
-(src/interfaceenhancement/ex/Account.java,a\c\ac8eaece1de93b406e4f88448d2ef8e92656fda8
