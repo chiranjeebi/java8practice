@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="commit stream funtions">
+    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="commit one more file">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/lambda/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/lambda/Calculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,18 +37,19 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/basic coding&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.even">
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.ex.Palindrome" />
+  <component name="RunManager" selected="Application.StringOccurance">
+    <configuration name="CountTheNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.CountTheNumberOfOccurrences" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.ex.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -56,12 +57,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Prac" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.ex.recursion.Prac" />
+    <configuration name="DeleteDuplicateElement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.DeleteDuplicateElement" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.ex.recursion.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -69,12 +70,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RemoveDuplicateNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.ex.recursion.RemoveDuplicateNo" />
+    <configuration name="RemoveAllWhiteSpacesString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.RemoveAllWhiteSpacesString" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.ex.recursion.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,8 +83,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="even" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.stream.even" />
+    <configuration name="StringOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.stream.StringOccurance" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
@@ -95,12 +96,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="findBiggestNo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.ex.recursion.findBiggestNo" />
+    <configuration name="odd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.odd" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.ex.recursion.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,11 +111,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.even" />
-        <item itemvalue="Application.findBiggestNo" />
-        <item itemvalue="Application.RemoveDuplicateNo" />
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.Prac" />
+        <item itemvalue="Application.StringOccurance" />
+        <item itemvalue="Application.CountTheNumberOfOccurrences" />
+        <item itemvalue="Application.RemoveAllWhiteSpacesString" />
+        <item itemvalue="Application.odd" />
+        <item itemvalue="Application.DeleteDuplicateElement" />
       </list>
     </recent_temporary>
   </component>
@@ -155,7 +156,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658127377750</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit one more file">
+      <created>1658128976291</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658128976291</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -174,7 +182,8 @@
     <MESSAGE value="commit lambda" />
     <MESSAGE value="commit lambda functions" />
     <MESSAGE value="commit stream funtions" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit stream funtions" />
+    <MESSAGE value="commit one more file" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit one more file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -289,10 +298,86 @@
           <line>16</line>
           <option name="timeStamp" value="26" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/even.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/even.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="28" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/Test.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/Test.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/StringOccurance.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/palind.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/palind.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/StringOccurance.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/RemoveDuplicateNumber.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/RemoveDuplicateNumber.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/StringOccurance.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/StringOccurance.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/DeleteDuplicateElement.java</url>
+          <line>7</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/CountTheNumberOfOccurrences.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="5" />
         </breakpoint>
+        <line-breakpoint enabled="true" type="java-field">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/stream/StringOccurance.java</url>
+          <line>27</line>
+          <properties field="str" class="interfaceenhancement.stream.StringOccurance" />
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>

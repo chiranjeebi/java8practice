@@ -17,7 +17,7 @@ public class even {
         System.out.println(list); //array list insertion order must be preserved
         List<Integer> l =list.stream().filter(i->i%2==0).collect(Collectors.toList());//filter always going to take boolean condition by using predicate ,predicate is a boolean valued function
         List<Integer> list1 =list.stream().filter(i->i%2==1).collect(Collectors.toList());
-        List<Integer> list2 =list.stream().map(i->i*2).collect(Collectors.toList());//for evey obj present inside stream i want to create  equvalent obj based on some funtion we go for map it is always going to take funtion as argument
+        List<Integer> list2 =list.stream().map(i->i*2).collect(Collectors.toList());//for evey obj present inside stream ,i want to create  equvalent obj based on some funtion we go for map it is always going to take funtion as argument
 
 
         System.out.println(l +" even no");
