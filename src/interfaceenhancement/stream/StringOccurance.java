@@ -6,11 +6,8 @@ import java.util.Map;
 public class StringOccurance {
     public static void main(String[] args) {
         String str = "this this city is is very oldest oldest & capital also";
-
         Map<String, Integer> hashMap = new HashMap<>();
-
         String[] words = str.split(" "); //spilt by space
-
         for(String word :words) { //
             //for( each item x:target )
             // containsKey(key) will return a boolean value
