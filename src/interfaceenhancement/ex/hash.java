@@ -9,10 +9,10 @@ public class hash {
 
     public static void main(String[] args) {
         HashMap map=new HashMap();
-        map.put(1,"chiranjeebi");
-        map.put(2,"lucky");
-        map.put(3,"tiki");
-        map.put(4,"Saumyashree");
+        map.put(1,"Alex");
+        map.put(2,"jhon");
+        map.put(3,"goku");
+        map.put(4,"kane");
 
         System.out.println(map);
 
