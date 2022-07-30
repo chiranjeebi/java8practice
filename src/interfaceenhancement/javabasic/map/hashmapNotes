@@ -1,0 +1,6 @@
+hashmap internal work flow-->>
+1.when a HM is created it will be in default capacity which is 16. it will create 15 buckets(which is 0 index to 15)
+2.each buckets consider as linked list & linked list contains one node.
+3.node stucher is like Key,Value,hash,next
+4.when we put duplicate key ,internaly it will check .equals(). to comparesion.
+5.if each bucket having multiple node that is called hashing cohesion.

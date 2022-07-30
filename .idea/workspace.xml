@@ -1,13 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit map exception">
+    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit map">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/ex/hash.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/ex/hash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/CountTheNumberOfOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/CountTheNumberOfOccurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/lambda/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/lambda/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/StringOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/StringOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/se.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/se.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,13 +44,13 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.PredicateExample">
-    <configuration name="PalinString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.practice.PalinString" />
+  <component name="RunManager" selected="Application.TryConcept">
+    <configuration name="Anagram" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.Anagram" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.practice.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -60,12 +58,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.PredicateExample" />
+    <configuration name="CountTheNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.CountTheNumberOfOccurrences" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +71,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.practice.StringOccurance" />
+    <configuration name="Linked" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.collectionframework.Linked" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.practice.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.collectionframework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TryConcept" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.exception.TryConcept" />
+      <module name="java8practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceenhancement.javabasic.exception.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,26 +110,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="se" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.stream.se" />
-      <module name="java8practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaceenhancement.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.PredicateExample" />
-        <item itemvalue="Application.se" />
+        <item itemvalue="Application.TryConcept" />
+        <item itemvalue="Application.CountTheNumberOfOccurrences" />
+        <item itemvalue="Application.Anagram" />
         <item itemvalue="Application.dup" />
-        <item itemvalue="Application.PalinString" />
-        <item itemvalue="Application.StringOccurance" />
+        <item itemvalue="Application.Linked" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658766338321</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="initial commit map">
+      <created>1658898772797</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658898772797</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -203,7 +208,8 @@
     <MESSAGE value="initial commit" />
     <MESSAGE value="initial committ" />
     <MESSAGE value="initial commit map exception" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit map exception" />
+    <MESSAGE value="initial commit map" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit map" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -412,6 +418,21 @@
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/predicate/PredicateExample.java</url>
           <line>8</line>
           <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/Anagram.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/Anagram.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/Anagram.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />

@@ -9,7 +9,7 @@ public class StringOccurance {
         Map<String, Integer> hashMap = new HashMap<>();
         String[] words = str.split(" "); //spilt by space
         for(String word :words) {
-            if (hashMap.containsKey(word))
+            if (hashMap.containsKey(word)) // containsKey(key) will return a boolean value
                 hashMap.put(word, hashMap.get(word) + 1);
 
             else
