@@ -11,8 +11,11 @@ public class odd {
         ArrayList<Integer>arrayList=new ArrayList<>();
         arrayList.add(10);
         arrayList.add(20);
+        arrayList.add(95);
         arrayList.add(99);
         arrayList.add(77);
+        arrayList.add(66);
+        arrayList.add(44);
         arrayList.add(55);
         List<Integer> list= arrayList.stream().filter(i->i%2==1).collect(Collectors.toList());
         System.out.println(list);

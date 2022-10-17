@@ -11,8 +11,7 @@ public class TestPalin {
         {
             System.out.println("it is a palindrome String");
 
-        }
-else {
+        } else {
     System.out.println("it's not a palindrome");
         }
     }

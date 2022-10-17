@@ -2,9 +2,9 @@ package interfaceenhancement.javabasic;
 
 public class CountTheNumberOfOccurrences {
     public static void main(String[] args) {
-        String s="this is call of duty ";
+        String s="this is call of duty is by activision ";
 
-        int count= (int) s.chars().filter(i->(char)i=='l').count();
+        int count= (int) s.chars().filter(i->(char)i=='i').count();
 
         System.out.println(count);
         //char()->Returns a stream of int zero-extending the char values from this sequence

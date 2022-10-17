@@ -12,13 +12,7 @@ public class dup {
             arrayList.add(i);
         }
         List<Integer> list= (List<Integer>) arrayList.stream().distinct().collect(Collectors.toList());
-
-/*
-        ArrayList<Integer> arrayList=new ArrayList<>(Arrays.asList(1,2,3,4,3,4,5,6,7));
-*//*
-        List<Integer> list=arrayList.stream().distinct().collect(Collectors.toList());*/
-System.out.println(list);
-
+        System.out.println(list);
     }
 
 }

@@ -7,7 +7,11 @@ import java.util.stream.Collectors;
 
 public class DeleteDuplicateElement {
     public static void main(String[] args) {
-        ArrayList<Integer> arrayList=new ArrayList<>(Arrays.asList(1,2,3,3,4,5,5,6,7)); //here define array
+        int [] a={1,2,3,3,4,5,5,6,7,99,99};
+        ArrayList<Integer> arrayList=new ArrayList<>(); //here define array
+        for(int i:a){ //adding elemets to arraylist
+            arrayList.add(i);
+        }
         List<Integer> list=arrayList.stream().distinct().collect(Collectors.toList());  //with distinct method we remove
      System.out.println(list+"" +"after delete duplicate element");
      //distinct->Returns a stream consisting of the distinct elements (according to Object.equals(Object)) of this stream.

@@ -30,4 +30,6 @@ public class even {
         //streams concepts use not only colletion
         //we can use array,group of values that method is stream.of()
     }
+
+
 }

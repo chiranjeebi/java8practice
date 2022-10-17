@@ -1,9 +1,6 @@
 package interfaceenhancement.practice;
 
-import java.util.Arrays;
-import java.util.HashMap;
-import java.util.LinkedHashMap;
-import java.util.Map;
+import java.util.*;
 
 public class StringOccurance {
     public static void main(String[] args) {
@@ -18,5 +15,6 @@ public class StringOccurance {
         }
     }
         System.out.println(hm);
+
     }
 }

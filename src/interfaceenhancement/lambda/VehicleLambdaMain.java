@@ -7,8 +7,6 @@ public class VehicleLambdaMain {
 
         vehicle.details();
 
-
-
         Calculator calculator=(Integer a,Integer b)->{return a+b;};  //calculator interace hold lamda expression with functional Interface
         Integer result =calculator.add(7,9);
         System.out.println("addition using lambda expression :" +result); //using Functional Interface

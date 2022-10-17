@@ -17,7 +17,7 @@ public class Linked {
         l.addLast("HYD");
         System.out.println(l);
         //insertion order is preserved
-        //hectrogeneous obj is alloowed
+        //hectrogenious obj is allowed
 
 
 

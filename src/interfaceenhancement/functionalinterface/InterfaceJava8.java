@@ -2,7 +2,7 @@ package interfaceenhancement.functionalinterface;
 
 @FunctionalInterface
 public interface InterfaceJava8 {
-     public void show(); //1 Abstract Method
+     public void show(); //single Abstract Method
      public default void details(){   // more than 1 default method
 
     }
