@@ -1,0 +1,28 @@
+
+E
+java:S3740"/Provide the parametrized type for this generic.(ÿÎ™Ä
+E
+java:S3740"/Provide the parametrized type for this generic.(ÿÎ™Ä
+J
+java:S3740"/Provide the parametrized type for this generic.(Ğ²Ñúÿÿÿÿ
+E
+java:S3740"/Provide the parametrized type for this generic.(Á ßœ
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(ã‰¡®øÿÿÿÿ
+U
+java:S1854""?Remove this useless assignment to local variable "entryStream".(ÊĞÔ„
+X
+java:S1854!"=Remove this useless assignment to local variable "valStream".(Ùäèûÿÿÿÿ
+S
+java:S1854 "=Remove this useless assignment to local variable "keyStream".(Ü­óî
+N	java:S106"9Replace this use of System.out or System.err by a logger.(µˆœÑ
+G
+java:S2201",The return value of "entrySet" must be used.(ıàÃËúÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(İş„Ô
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Í€¤üÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(×òÇûÿÿÿÿ
+D
+java:S1481 ".Remove this unused "keyStream" local variable.(Ü­óî
+I
+java:S1481!".Remove this unused "valStream" local variable.(Ùäèûÿÿÿÿ
+F
+java:S1481""0Remove this unused "entryStream" local variable.(ÊĞÔ„

@@ -1,0 +1,19 @@
+
+U
+java:S1854"?Remove this useless assignment to local variable "calculator1".(ö”Çæ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(§Óëæıÿÿÿÿ
+h
+java:S1602
+"SRemove useless curly braces around statement and then remove useless return keyword(ÕÄş
+N	java:S106"9Replace this use of System.out or System.err by a logger.(«•œ¦
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ö”Çæ
+F
+java:S1481"0Remove this unused "calculator1" local variable.(ö”Çæ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(°ÓÉª
+n
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(Ú…­ıÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.( ”óâÿÿÿÿÿ
+i
+java:S1602"SRemove useless curly braces around statement and then remove useless return keyword(ôù˜²
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®Üê¹ıÿÿÿÿ

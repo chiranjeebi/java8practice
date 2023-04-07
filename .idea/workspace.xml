@@ -1,20 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit map">
+    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit Hashmap">
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/functionalinterface/InterfaceJava8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/functionalinterface/InterfaceJava8.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/CountTheNumberOfOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/CountTheNumberOfOccurrences.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/DeleteDuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/DeleteDuplicateElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/PrintDuplicateElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/PrintDuplicateElement.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/collectionframework/Linked.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/collectionframework/Linked.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/odd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/odd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/practice/StringOccurance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/practice/StringOccurance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/practice/dup.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/practice/dup.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/TestPalin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/TestPalin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/predicate/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/predicate/PredicateExample.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,13 +24,8 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/practice/FibonacciExample1.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/practice/MyCalender.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/practice/PrimeNo.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/practice/StringOccurance.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/practice/dup.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/practice/no.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/stream/EmpSalary.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -52,19 +37,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/work/property-management&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "SONARLINT_PRECOMMIT_ANALYSIS": "true",
+    "last_opened_file_path": "D:/work/property-management",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2"
   }
-}</component>
-  <component name="RunManager" selected="Application.demo">
+}]]></component>
+  <component name="RunManager" selected="Application.test2">
     <configuration name="CountTheNumberOfOccurrences" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.CountTheNumberOfOccurrences" />
       <module name="java8practice" />
@@ -78,12 +64,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CustomException" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.exception.CustomException" />
+    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.PredicateExample" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.javabasic.exception.*" />
+          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -91,25 +77,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EmpSalary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.stream.EmpSalary" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.Test" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.stream.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StringOccurance" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.stream.StringOccurance" />
-      <module name="java8practice" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="interfaceenhancement.stream.*" />
+          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -130,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.test2" />
+      <module name="java8practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.demo" />
+        <item itemvalue="Application.test2" />
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.PredicateExample" />
         <item itemvalue="Application.CountTheNumberOfOccurrences" />
-        <item itemvalue="Application.CustomException" />
-        <item itemvalue="Application.StringOccurance" />
-        <item itemvalue="Application.EmpSalary" />
+        <item itemvalue="Application.demo" />
       </list>
     </recent_temporary>
   </component>
@@ -205,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658898772797</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="initial commit Hashmap">
+      <created>1666026702202</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1666026702202</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -229,7 +222,8 @@
     <MESSAGE value="initial committ" />
     <MESSAGE value="initial commit map exception" />
     <MESSAGE value="initial commit map" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit map" />
+    <MESSAGE value="initial commit Hashmap" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit Hashmap" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -240,12 +234,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java</url>
-          <line>24</line>
+          <line>22</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java</url>
-          <line>13</line>
+          <line>11</line>
           <properties>
             <option name="lambda-ordinal" value="-1" />
           </properties>
@@ -421,7 +415,7 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/practice/StringOccurance.java</url>
-          <line>4</line>
+          <line>3</line>
           <option name="timeStamp" value="49" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -469,12 +463,12 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/DeleteDuplicateElement.java</url>
-          <line>14</line>
+          <line>18</line>
           <option name="timeStamp" value="60" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/DeleteDuplicateElement.java</url>
-          <line>10</line>
+          <line>14</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
@@ -494,23 +488,13 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/practice/StringOccurance.java</url>
-          <line>7</line>
+          <line>4</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/practice/StringOccurance.java</url>
-          <line>16</line>
+          <line>13</line>
           <option name="timeStamp" value="67" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/interfaceenhancement/practice/StringOccurance.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java</url>
-          <line>11</line>
-          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/practice/FibonacciExample1.java</url>
@@ -591,6 +575,26 @@
           <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/exception/CustomException.java</url>
           <line>11</line>
           <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/opps/demo.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="88" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/opps/demo.java</url>
+          <line>6</line>
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/javabasic/opps/demo.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/predicate/PredicateExample.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="91" />
         </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />

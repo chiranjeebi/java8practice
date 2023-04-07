@@ -1,0 +1,7 @@
+
+;
+java:S2129
+" Remove this "String" constructor(Ö©ıÿÿÿÿ
+Q	java:S125"<This block of commented-out lines of code should be removed.(İŠëÕ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(²è¾Ãÿÿÿÿÿ
+U	java:S106"9Replace this use of System.out or System.err by a logger.(É¬­ğ8 ı¨½ 0
