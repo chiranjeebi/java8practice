@@ -1,0 +1,9 @@
+
+u
+java:S4165"_Remove this useless assignment; "i" already holds the assigned value along all execution paths.(¬›Ä
+J
+java:S1172"(Remove this unused method parameter "i".(½”½Êøÿÿÿÿ8ı–µ¢¥0
+E
+java:S1656"/Remove or correct this useless self-assignment.(¬›Ä
+S	java:S106"9Replace this use of System.out or System.err by a logger.(Ùêíşÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(É®Òƒûÿÿÿÿ

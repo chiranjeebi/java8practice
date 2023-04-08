@@ -1,0 +1,10 @@
+
+S
+java:S1854"8Remove this useless assignment to local variable "list".(äÉ–¦üÿÿÿÿ
+g
+java:S4276"QRefactor this code to use the more specialised Functional Interface 'IntConsumer'(²Ëãœ
+B
+java:S1602",Remove useless curly braces around statement(²Ëãœ
+M	java:S106"9Replace this use of System.out or System.err by a logger.(åşÙR
+D
+java:S1481")Remove this unused "list" local variable.(äÉ–¦üÿÿÿÿ
