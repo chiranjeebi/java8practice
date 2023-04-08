@@ -2,6 +2,8 @@ package interfaceenhancement.predicate;
 
 import java.util.function.Predicate;
 
+
+//write a program to print number which is greater than 10 and check is there any even no or not?
 public class test2 {
     public static void main(String[] args) {
 

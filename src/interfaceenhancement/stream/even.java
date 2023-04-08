@@ -27,7 +27,7 @@ public class even {
         //stream is a interface present inside collection
         //how to create a stream
         //Stream s=c.stream();
-        //streams concepts use not only colletion
+        //streams concepts use not only collection
         //we can use array,group of values that method is stream.of()
     }
 
