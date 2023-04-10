@@ -4,12 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit predicate">
+    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit predicate ex">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0befe00897518f4c448e398f09c65294bc25be41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d601d0b435dab61ac490ea0b7b38bbaed7724a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f14267698422b68e851835332dc024adff168e9" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/b/0befe00897518f4c448e398f09c65294bc25be41" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2d601d0b435dab61ac490ea0b7b38bbaed7724a6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9f14267698422b68e851835332dc024adff168e9" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/predicate/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/predicate/test2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/MinMax.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -210,7 +215,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680848091441</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="initial commit predicate ex">
+      <created>1680973386124</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1680973386124</updated>
+    </task>
+    <task id="LOCAL-00012" summary="initial commit predicate ex">
+      <created>1680973422479</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1680973422479</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +255,8 @@
     <MESSAGE value="initial commit map" />
     <MESSAGE value="initial commit Hashmap" />
     <MESSAGE value="initial commit predicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit predicate" />
+    <MESSAGE value="initial commit predicate ex" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit predicate ex" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

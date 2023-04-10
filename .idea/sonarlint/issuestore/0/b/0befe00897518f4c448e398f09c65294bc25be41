@@ -1,7 +1,0 @@
-
-N	java:S106"9Replace this use of System.out or System.err by a logger.(î¼ùš
-S	java:S106"9Replace this use of System.out or System.err by a logger.(Óë›Åûÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(“° „ûÿÿÿÿ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(‚Ö…«
-O
-java:S1128"9Remove this unused import 'netscape.security.UserTarget'.(·ö’é
