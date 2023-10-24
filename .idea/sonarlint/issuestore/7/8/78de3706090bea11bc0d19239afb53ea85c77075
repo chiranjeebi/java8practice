@@ -1,7 +1,0 @@
-
-v
-java:S3923"[Remove this conditional structure or edit its code blocks so that they're not all the same.(Á‚‹‚ùÿÿÿÿ
-q
-java:S2159"VRemove this call to "equals"; comparisons between unrelated types always return false.(Á‚‹‚ùÿÿÿÿ
-N	java:S106	"9Replace this use of System.out or System.err by a logger.(´ËÛ
-N	java:S106"9Replace this use of System.out or System.err by a logger.(´ËÛ

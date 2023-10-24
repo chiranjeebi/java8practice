@@ -24,6 +24,9 @@ public class VehicleLambdaMain {
     Integer mulResult= calculator3.mul(6,6);
         System.out.println("multipication using lambda expression :" +mulResult);
 
+
+        //interf i - it is act as a type for lambda expression
+
     }
 
 

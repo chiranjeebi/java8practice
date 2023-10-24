@@ -1,11 +1,11 @@
 package interfaceenhancement.javabasic.opps;
 
-final class Test { //class is final ->this class is immutable
-    private int i; //private variable
+final class Test {       //class is final ->this class is immutable
+    private int i;       //private variable
     Test(int i){ //constructer
         this.i= this.i;
     }
-    public Test modify(int i){ //modify method
+    public Test modify(int i){       //modify method
         if(this.i==i){
             return this;
         }else {

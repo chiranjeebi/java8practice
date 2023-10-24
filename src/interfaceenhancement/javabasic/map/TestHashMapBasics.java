@@ -13,6 +13,7 @@ public class TestHashMapBasics {
         m.put("dev",104);
         m.put("surya",105);
         System.out.println(m+""+" Example of Hashmap"); //insertion is based on hashcode of keys & insertion is not preserved
+
         HashMap m1=new LinkedHashMap();
         m1.put("jane",101);
         m1.put("alex",102);
@@ -20,6 +21,7 @@ public class TestHashMapBasics {
         m1.put("dev",104);
         m1.put("surya",105);
         System.out.print(m1+""+" Example of Linked Hashmap");//insertion order is preserved in LinkedHashmap
+
 
           Set s= m.keySet();
           System.out.println(s);//keys will print

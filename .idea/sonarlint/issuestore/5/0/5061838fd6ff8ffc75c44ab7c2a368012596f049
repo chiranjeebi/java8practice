@@ -1,27 +1,0 @@
-
-J
-java:S3740	"/Provide the parametrized type for this generic.(ûþÅÔÿÿÿÿÿ
-J
-java:S3740"/Provide the parametrized type for this generic.(å·¥ìùÿÿÿÿ
-J
-java:S3740"/Provide the parametrized type for this generic.(å·¥ìùÿÿÿÿ
-J
-java:S3740"/Provide the parametrized type for this generic.(¹¼Šºÿÿÿÿÿ
-E
-java:S3740"/Provide the parametrized type for this generic.(þùÔÂ
-R
-java:S4973 "<Strings and Boxed types should be compared using "equals()".(¥•éè
-K
-java:S1854"5Remove this useless assignment to local variable "d".(ÊÙº¸
-N	java:S106"9Replace this use of System.out or System.err by a logger.(¶ÉñÂ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(š»ŽÈùÿÿÿÿ
-S	java:S106"9Replace this use of System.out or System.err by a logger.(´»‡•ùÿÿÿÿ
-<
-java:S1481"&Remove this unused "d" local variable.(ÊÙº¸
-N	java:S106"9Replace this use of System.out or System.err by a logger.(Áß‡Ü
-<
-java:S2129"!Remove this "Integer" constructor(Ì’Ðóýÿÿÿÿ
-<
-java:S2129"!Remove this "Integer" constructor(ÉöÝŠüÿÿÿÿ
-N	java:S106 "9Replace this use of System.out or System.err by a logger.(¥•éè
-S	java:S106!"9Replace this use of System.out or System.err by a logger.(Ñž¼Ïúÿÿÿÿ

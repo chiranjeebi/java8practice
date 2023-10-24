@@ -8,7 +8,7 @@ public class TryConcept {
         catch (ArithmeticException e){  //the order of catch block should be child to parent (top to bottom) ->child
             System.out.println("Arithmatic exception occurred");
         }
-        catch (Exception e){ //parent
+        catch (Exception e){    //parent class
             System.out.println("exception");
         }
          //the way of handeling exception is varied from exception to exception.

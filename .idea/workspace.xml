@@ -4,17 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit predicate ex">
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/b/0befe00897518f4c448e398f09c65294bc25be41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/d/2d601d0b435dab61ac490ea0b7b38bbaed7724a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f14267698422b68e851835332dc024adff168e9" beforeDir="false" />
+    <list default="true" id="ff3ef002-afdd-4dde-88ff-1249ef1dd510" name="Changes" comment="initial commit stream ex min">
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/4/046c7261457ba9da782a91abd49adcaca5d3b609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c16d4928a30381bd970f326d29c89557d754db4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/c/0c50a82af84a2349689e658c3868da98b630ae7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c447b485fca236e904ddbf094d4c4374a9c077d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/c/1c7c26c178fdcbe41cbce68c9b069382c77226c8" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/1/d/1d6cc086b1c703d9eb4428962f2e9cee5bdd86a3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/7/27f8c9ed4b990bd11f6c03b1cc9575857ebef59a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b0a1ab837ae3e66a15706b84e4dff8216806758" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/2/b/2b0a1ab837ae3e66a15706b84e4dff8216806758" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/4/342a15dfb8627037cc929b5389c173c4559a1ea6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/5/358dadba21f3df2be59d15a6c2879437062b47ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/b/3b804a52d5c60796a8ab9fcff024ef17fb2229e3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/c/3cee0b492528a8964385bc72d84cf567430f6dcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/e/4ebdb12db6ba1affbcea8192f36f10449c32d347" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/5061838fd6ff8ffc75c44ab7c2a368012596f049" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/5061838fd6ff8ffc75c44ab7c2a368012596f049" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/5/55cc8de6509cec3f2024f5e2f601485418eb6dfe" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/8/58707fe461f0964b64bc10b44bf67c1b37a7eac6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/8/78de3706090bea11bc0d19239afb53ea85c77075" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/9/79255c05bfc3e38ee0bd660b223a08597c9822f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/b/7b8101a7998b1051e1b3d0c65dc8aeb7180efd8c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/e/9e2bff027f005b81ea9dfda022b30a813b448cab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/4/a4d75335a7bfffa00901bbb58fb6d3545301d10b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/5/a5c8d35831613a74c5efdb6c8ec7c670b99bbc5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/5/b5579240d1456e89da90eed15bf61a5d83ecd54e" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/7/b7740babaa54a1b1e3edf4214b30504f04e7f274" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/b/d/bd4bf718f61d43afe727196cec50a22135bbe1cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/3/d3c91db66b5e7f64f76cccdb3f2935db3b0455ba" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/d/8/d873a4f48862557bb6d8ce048c27a14491f887c2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/1/e1b58985a2f45e21ebcaf0aa2f8821f191e632ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef5e4c816a292939680fa87356edfd106ff553f0" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef5e4c816a292939680fa87356edfd106ff553f0" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/3/f39adb94bb534ad186351289dc7c664275fd03b3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/e/fe3bff964f0ae2005206fd114406aea9e654d99d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/b/0befe00897518f4c448e398f09c65294bc25be41" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/d/2d601d0b435dab61ac490ea0b7b38bbaed7724a6" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9f14267698422b68e851835332dc024adff168e9" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/4/046c7261457ba9da782a91abd49adcaca5d3b609" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/c/0c16d4928a30381bd970f326d29c89557d754db4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/0/c/0c50a82af84a2349689e658c3868da98b630ae7f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/2/7/27f8c9ed4b990bd11f6c03b1cc9575857ebef59a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/4/342a15dfb8627037cc929b5389c173c4559a1ea6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/5/358dadba21f3df2be59d15a6c2879437062b47ff" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/c/3cee0b492528a8964385bc72d84cf567430f6dcd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/4/e/4ebdb12db6ba1affbcea8192f36f10449c32d347" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/7/9/79255c05bfc3e38ee0bd660b223a08597c9822f4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/4/a4d75335a7bfffa00901bbb58fb6d3545301d10b" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/a/5/a5c8d35831613a74c5efdb6c8ec7c670b99bbc5a" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/7/b7740babaa54a1b1e3edf4214b30504f04e7f274" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/b/d/bd4bf718f61d43afe727196cec50a22135bbe1cf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/f/e/fe3bff964f0ae2005206fd114406aea9e654d99d" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/MinMax.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/CountTheNumberOfOccurrences.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/CountTheNumberOfOccurrences.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/exception/CustomException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/exception/CustomException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/exception/TooOldException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/exception/TooOldException.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/exception/TryConcept.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/exception/TryConcept.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/map/TestHashMapBasics.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/map/TestHashMapBasics.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/opps/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/javabasic/opps/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/lambda/VehicleLambdaMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/practice/PrimeNo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/practice/PrimeNo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/predicate/PredicateExample.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/predicate/PredicateExample.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/predicate/test4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/predicate/test4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/EmpSalary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/EmpSalary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/TestApp.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/even.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/interfaceenhancement/stream/example/ex2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/interfaceenhancement/stream/example/ex2.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +106,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
     &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/work/property-management&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/proj1/java8practice&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
@@ -74,12 +126,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PredicateExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.PredicateExample" />
+    <configuration name="TestEn" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.opps.TestEn" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.opps.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +139,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.Test" />
+    <configuration name="VehicleLambdaMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.lambda.VehicleLambdaMain" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
+          <option name="PATTERN" value="interfaceenhancement.lambda.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +152,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.test2" />
+    <configuration name="c1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.javabasic.collectionframework.c1" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
+          <option name="PATTERN" value="interfaceenhancement.javabasic.collectionframework.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +165,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.predicate.test3" />
+    <configuration name="test5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="interfaceenhancement.practice.test5" />
       <module name="java8practice" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="interfaceenhancement.predicate.*" />
+          <option name="PATTERN" value="interfaceenhancement.practice.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +180,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test3" />
-        <item itemvalue="Application.test2" />
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.PredicateExample" />
+        <item itemvalue="Application.c1" />
+        <item itemvalue="Application.test5" />
+        <item itemvalue="Application.VehicleLambdaMain" />
         <item itemvalue="Application.CountTheNumberOfOccurrences" />
+        <item itemvalue="Application.TestEn" />
       </list>
     </recent_temporary>
   </component>
@@ -229,7 +281,21 @@
       <option name="project" value="LOCAL" />
       <updated>1680973422479</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="initial commit stream ex min max sorted">
+      <created>1681100505019</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1681100505019</updated>
+    </task>
+    <task id="LOCAL-00014" summary="initial commit stream ex min">
+      <created>1681100711835</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1681100711835</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -256,7 +322,9 @@
     <MESSAGE value="initial commit Hashmap" />
     <MESSAGE value="initial commit predicate" />
     <MESSAGE value="initial commit predicate ex" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit predicate ex" />
+    <MESSAGE value="initial commit stream ex min max sorted" />
+    <MESSAGE value="initial commit stream ex min" />
+    <option name="LAST_COMMIT_MESSAGE" value="initial commit stream ex min" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -647,6 +715,26 @@
           <line>33</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/swap.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/swap.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/swap.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/interfaceenhancement/swap.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="98" />
+        </line-breakpoint>
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.StackOverflowError" package="java.lang" />
           <option name="timeStamp" value="5" />
@@ -704,5 +792,8 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/java8practice$swap.ic" NAME="swap Coverage Results" MODIFIED="1697823732844" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

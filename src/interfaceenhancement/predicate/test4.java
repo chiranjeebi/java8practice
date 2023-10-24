@@ -8,7 +8,7 @@ import java.util.function.Predicate;
 
 public class test4 {
     public static void main(String[] args) {
-        String [] names={"lucky","","druga","","suresh"};
+        String [] names={"lucky","","durga","","suresh"};
 
         Predicate<String> stringPredicate= s->s!=null && s.length()!=0;   //using predicate
         ArrayList<String> arrayList=new ArrayList<>();

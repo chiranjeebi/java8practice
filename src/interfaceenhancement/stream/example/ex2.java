@@ -1,6 +1,7 @@
 package interfaceenhancement.stream.example;
 
 import java.util.ArrayList;
+import java.util.Collections;
 import java.util.List;
 import java.util.stream.Collectors;
 
@@ -35,6 +36,13 @@ public class ex2 {
 
         Integer max=arrayList.stream().max((i1,i2)->i1.compareTo(i2)).get();
         System.out.println("maximum value :" +max);
+
+        List<Integer> sortedList=arrayList.stream().sorted().collect(Collectors.toList());
+        System.out.println(sortedList +"-> After soring the Array");
+
+        List<Integer> acending=arrayList.stream().sorted(Collections.reverseOrder()).collect(Collectors.toList());
+        System.out.println(acending +"after reversing");
+
 
 
 
